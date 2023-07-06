@@ -20,16 +20,16 @@ For User log in, click <a href="http://localhost/osTicket/">here</a></h3>
 ![image](https://github.com/David123890dd/ticket-lifecycle/assets/138183500/aedfcd6c-93e9-4125-9cea-427a8a215567)
 ![image](https://github.com/David123890dd/ticket-lifecycle/assets/138183500/6787b3af-8335-4d10-8769-411f3770e308)
 
-This shows the history of changes:
+<h3>This shows the history of changes:</h3>
 
 ![image](https://github.com/David123890dd/ticket-lifecycle/assets/138183500/8b862f0e-8b2f-4b8d-a569-8562c9bd1dbf)
 
-to close a ticket, click the ticket status and select closed and click Post Reply
+<h3>to close a ticket, click the ticket status and select closed and click Post Reply</h3>
 
 ![image](https://github.com/David123890dd/ticket-lifecycle/assets/138183500/42c46ddf-9c09-4e4b-9651-535f44c6a2eb)
 
-To view closed tickets, go to Tickets --> closed <br/>
-To go back to viewing open tickets, go to tickets --> Open
+<h3>To view closed tickets, go to Tickets --> closed <br/>
+To go back to viewing open tickets, go to tickets --> Open</h3>
 
 ![image](https://github.com/David123890dd/ticket-lifecycle/assets/138183500/1f4534ef-bfaa-474b-818f-1170fe2b0f1d)
 
